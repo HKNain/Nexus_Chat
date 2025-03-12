@@ -54,12 +54,11 @@ Nexus Chat is a real-time chat application built using the **MERN** stack, featu
 
    ```sh
    # Start the backend
-   cd server
-   npm start
+   npm run server
 
    # Start the frontend
-   cd ../client
-   npm start
+   cd frontend
+   npm run dev
    ```
 
 5. **Access Nexus Chat**
